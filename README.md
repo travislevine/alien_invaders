@@ -1,1 +1,2 @@
 This repo will contain my progress through the  Python Crash Course: A Hands-on, Project-based Introduction to Programming by Eric Mathhes
+This line is temporarily added for git learning purposes from the book
